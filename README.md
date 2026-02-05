@@ -22,7 +22,7 @@ The workflow is designed as an end-to-end analytics portfolio project using:
 
 ## 🧰 Tools & Technologies
 - **SQL** (MySQL / PostgreSQL / SQLite)
-- **Python** (Pandas, NumPy, Matplotlib)
+- **Python** (Pandas, NumPy)
 - **Google Colab**
 - **Google Looker Studio**
 - **GitHub**
