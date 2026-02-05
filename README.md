@@ -1,4 +1,4 @@
-# ai-bank-churn-analytics
+# AI-Bank-Churn-Analytics
 
 # AI-Driven Bank Churn Analytics (SQL + Python + Looker Studio)
 
